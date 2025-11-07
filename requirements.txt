@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+requests
+groq
+plotly
+matplotlib
+wordcloud
+scikit-learn
+sentence-transformers
+numpy
+python-dotenv
